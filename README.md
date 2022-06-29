@@ -2,7 +2,7 @@
 
 ## Um repositório com o intuito de praticar HTML e CSS.
 
-[<img src="src/images/screenshot.png" alt="imagem tela do site">]
+[<img src="src/images/Screenshot.png" alt="imagem tela do site">]
 
 ## Tecnologias utilizadas:
 ---
