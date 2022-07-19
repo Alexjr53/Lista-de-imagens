@@ -2,6 +2,11 @@
 
 Projeto com o objetivo de praticar HTML e CSS.
 
+[![NPM](https://img.shields.io/bower/l/MI)](https://github.com/Alexjr53/Lista-de-imagens/blob/main/LICENSE)
+
+## Link
+URL da página - [Lista de imagens](https://alexjr53.github.io/Lista-de-imagens/)
+
 ## Desafio realizado nesse projeto:
 
 - Página criada a partir de um exercício para praticar HTML e CSS.
@@ -14,13 +19,13 @@ Projeto com o objetivo de praticar HTML e CSS.
 ![Desktop](src/images/Screenshot-desktop.png)
 
 ### Mobile
-![Mobile](src/images/Anima%C3%A7%C3%A3o-mobile.gif)
+![Mobile](src/images/Screenshot-mobile.gif)
 ## Tecnologias utilizadas:
 - HTML
 - CSS
 
-## Link
-URL - [Lista de imagens](https://alexjr53.github.io/Lista-de-imagens/)
 
 ## Autor
+Alexsandro rosa junior
+
 GitHub - [Alexjr53](https://github.com/Alexjr53)
